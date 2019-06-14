@@ -11,10 +11,13 @@ Provas e trabalhos feito no curso TADS-IFRS
 TABELA 1:
 <img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/brasileirao/tabela%201.png" align="center" alt="tabela01"/><br>
 TABELA 2:
-<img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/brasileirao/tabela%202.png" align="center" alt="tabela01"/><br>
+<img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/brasileirao/tabela%202.png" align="center" alt="tabela02"/><br>
 
 # JAVA/ELEVADOR
 
 
 <h2>Main.java</h2>
-É um trabalho que o cenario é um elevador e pessoas que entram e sai do elevador não podendo passar do limite maximo do elevador assim sendo necessario fazer condições para tratar esses possiveis problemas que podem ocorrer. Explicação total do funcionamento do programa no TrablhoElevador.pdf .
+É um trabalho que o cenario é um elevador e pessoas que entram e sai do elevador não podendo passar do limite maximo do elevador assim sendo necessario fazer condições para tratar esses possiveis problemas que podem ocorrer. Explicação total do funcionamento do programa no TrablhoElevador.pdf .<br>
+Informações finais do programa.<br>
+<img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/elevador/elevador.png" align="center" alt="elevador"/><br>
+https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/elevador/elevador.png
