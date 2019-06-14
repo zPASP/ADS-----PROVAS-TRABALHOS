@@ -9,7 +9,7 @@ Provas e trabalhos feito no curso TADS-IFRS
 <h2>trabalho.java</h2>
 É o arquivo final enviado. Com um desing um pouco intuitivo. Na primeira tabela é feita uma organização dos times por ordem de pontos e mostrado as melhores rodadas e quantidade de vitorias, derrotas e empates, na segunda tabela é mostrado as rodadas em que pelo menos 3 times venceram partidas.
 TABELA 1:
-<img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/brasileirao/tabela%201.png" align="center" height="100" alt="GridDB"/>
+<img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/brasileirao/tabela%201.png" align="center" alt="tabela01"/>
 
 # JAVA/ELEVADOR
 
