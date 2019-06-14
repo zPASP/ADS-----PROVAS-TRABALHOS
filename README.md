@@ -20,4 +20,3 @@ TABELA 2:
 É um trabalho que o cenario é um elevador e pessoas que entram e sai do elevador não podendo passar do limite maximo do elevador assim sendo necessario fazer condições para tratar esses possiveis problemas que podem ocorrer. Explicação total do funcionamento do programa no TrablhoElevador.pdf .<br>
 Informações finais do programa.<br>
 <img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/elevador/elevador.png" align="center" alt="elevador"/><br>
-https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/elevador/elevador.png
