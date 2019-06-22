@@ -29,7 +29,7 @@ TABELA 2:<br>
 
 # JAVA/CONJUNTOS
  _________
-<h2>|carro.java|</h2>
+<h2>|conjuntos.java|</h2>
 É um trabalho que tinha que fazer a união de dois vetores ou seja todos os dados do vetorA e vetorB e colacar no VetorC sem repedir informação.No outro enuncioada é a intersecção desses valores que seria o que esta no vetorA e no VetorB ou os valores que se repetem. <br>
 <h4>IMAGEM DO PROGRAMA.</h4><br>
 <img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/conjuntos/conjuntos.png" align="center" alt="conjuntos"/><br>
