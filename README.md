@@ -8,8 +8,8 @@ Dentro das pastas estão os .PDF com o enunciado de cada exercicio, podendo ser 
 Trabalho feito como revisão do primeiro semestre.</br>
 Ao chamar o programa é necessario declarar a quantidade de andares e a quantidade maxima de pessoas que podem conter dentro do elevador.<br>
 Exemplo: <i>java elevador 10 20 </i><br>
-o elevador teria as mesmas caracteriscar do abaixo.<br>
-<img src="https://raw.githubusercontent.com/zPASP/TADS---PROVAS-TRABALHOS/master/elevador%20v2/elevadorv2.png" align="center" alt="elevador02"/><br>
+o elevador teria as mesmas caracteriscar do abaixo.<p>
+<img src="https://raw.githubusercontent.com/zPASP/ADS-----PROVAS-TRABALHOS/master/elevador%20v2/elevadorv2.png" align="center" alt="elevador02"/><br>
 Ele tem algumas funções extras e para saber as obrigatorias basta acessar o PDF contido na pasta.
 
 
