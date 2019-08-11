@@ -3,7 +3,7 @@ Provas e trabalhos feito no curso TADS-IFRS<br>
 Dentro das pastas estão os .PDF com o enunciado de cada exercicio, podendo ser verificado o que se pede e o que foi feito.
 -------
 
-# ELEVADOR v2
+# FUNÇÕES
 <h2>|biblioteca.java|</h2>
 Meu primeiro trabalho chamando alguma função de outro arquivo<br>
 Basicamente é uma biblioteca com funções matematicas para vetores. Onde eu coloquei um MENU para o usuario poder intender o que esta sendo feito de fato, não apenas chamando as funções.
