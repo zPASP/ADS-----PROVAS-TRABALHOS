@@ -9,7 +9,7 @@ Meu primeiro trabalho chamando alguma função de outro arquivo<br>
 Basicamente é uma biblioteca com funções matematicas para vetores. Onde eu coloquei um MENU para o usuario poder intender o que esta sendo feito de fato, não apenas chamando as funções.
 Na imagem abixo é possivel ver as funções que tem no programa.<p>
 <img src="https://raw.githubusercontent.com/zPASP/ADS-----PROVAS-TRABALHOS/master/biblioteca_vetor/menu.png" align="center" alt="menu"/><br>
-Enunciado das funções que o programa tinha que ter no arquivo(<i>biblioteca.pdf</i>)
+Enunciado das funções que o programa tem que ter esta no arquivo(<i>biblioteca.pdf</i>)
 
 # ELEVADOR v2
 <h2>|elevador.java|</h2>
